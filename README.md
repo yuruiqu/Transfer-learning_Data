@@ -1,5 +1,5 @@
 # Transfer-learning_Dat
-File name is "number of layers"_"films or nanoparticles"_"number of examples". 
+File name is "number of layers"\_"films or nanoparticles"_"number of examples". 
 
 For example, "8layer_films_50000" means that there are 50000 examples, each representing the thicknesses of 8-layer films. 
 
